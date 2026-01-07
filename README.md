@@ -281,7 +281,7 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Criminal minds and being able to see inside Coen's mind to make him cum everyday</p>
+            <p>I love cats and coen </p>
             <p>Describe your career goals, what areas of forensic psychology interest you most, and what you hope to achieve in this field.</p>
         </section>
 
