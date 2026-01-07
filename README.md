@@ -281,7 +281,7 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>about you background, what drew you to forensic psychology, and your academic interests in the intersection of psychology and law.</p>
+            <p>Criminal minds and being able to see inside Coen's mind to make him cum everyday</p>
             <p>Describe your career goals, what areas of forensic psychology interest you most, and what you hope to achieve in this field.</p>
         </section>
 
