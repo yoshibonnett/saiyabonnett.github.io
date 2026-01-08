@@ -368,7 +368,7 @@
                 </div>
                 <div class="contact-item">
                     <strong>LinkedIn:</strong>
-                    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a>
+                    <a href=https://www.linkedin.com/feed/" target="_blank">LinkedIn Profile</a>
                 </div>
                 <div class="contact-item">
                     <strong>Phone:</strong>
